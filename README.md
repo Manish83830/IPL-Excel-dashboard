@@ -10,12 +10,11 @@ The primary goal of this project is to use Microsoft Excel (and the resulting CS
 This repository contains a collection of CSV (Comma Separated Values) files derived from a single Excel analysis sheet related to **IPL (Indian Premier League)** match data.
 
 # Data Files
-The following files represent different aspects of the analysis:
-- `Manish Excel IPL Datasheet.xlsx - IPL Matches 2018-2020.csv`: The core match data project.
-
-# Main project
 - `IPL Dataset.xlsx`: The raw match dataset used to make the excel.
 
+# Main project
+- `Manish Excel IPL Datasheet.xlsx - IPL Matches 2018-2020.csv`: The core match data project.
+  
 ## Purpose
 
 These files are provided for public use and statistical analysis.
