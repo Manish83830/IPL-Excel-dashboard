@@ -18,3 +18,6 @@ This repository contains a collection of CSV (Comma Separated Values) files deri
 ## Purpose
 
 These files are provided for public use and statistical analysis.
+
+Here is the preview of project:
+<img width="1083" height="507" alt="Screenshot 2025-10-31 141255" src="https://github.com/user-attachments/assets/7e6a34eb-8182-4246-ad85-c405deca018b" />
